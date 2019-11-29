@@ -409,3 +409,4 @@ console.log(graph);
 1. Addition of utility functions for doing things like flattening player hiscore entries into an array rather than map
 2. `getRanks` currently also retrieves ranks slightly outside of the desired range
 3. Integration tests to check if schemas are changed
+4. Re-written in TypeScript
