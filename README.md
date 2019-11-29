@@ -1,5 +1,5 @@
 # osrs-api
-![npm](https://img.shields.io/npm/v/osrs-api.svg)
+[![npm](https://img.shields.io/npm/v/osrs-api.svg)](https://www.npmjs.com/package/osrs-api) [![travis-ci](https://travis-ci.org/Bardiches/osrs-api.svg?branch=master)](https://travis-ci.org/Bardiches/osrs-api)
 
 A node.js-based wrapper for [OSRS](http://oldschool.runescape.com/)'s hiscores API and Grand Exchange API. Forked from [atjeff/Osrs-Wrapper](https://github.com/atjeff/Osrs-Wrapper).
 
@@ -408,5 +408,4 @@ console.log(graph);
 
 1. Addition of utility functions for doing things like flattening player hiscore entries into an array rather than map
 2. `getRanks` currently also retrieves ranks slightly outside of the desired range
-3. Travis integration
-4. Integration tests to check if schemas are changed
+3. Integration tests to check if schemas are changed
